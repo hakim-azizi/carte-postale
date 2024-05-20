@@ -1,0 +1,10 @@
+footer {
+  padding: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--light-color);
+  background: var(--dark-color);
+}
+ footer >p {margin: auto;}
