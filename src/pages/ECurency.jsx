@@ -5,7 +5,7 @@ function ECurency() {
   return (
     <>
       <h1>
-        ICI NOUS AVONS QUITTER LE SITE ET NOUS SOMME SUR UN E-CURENCY DE
+        ICI NOUS AVONS QUITTER LE SITE ET NOUS SOMMES SUR UN E-CURENCY DE
         PAIEMENT
       </h1>
       <p>
