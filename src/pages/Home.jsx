@@ -32,7 +32,7 @@ function Home() {
             Fabriquées avec des matériaux de haute qualité, nos cartes sont à la
             fois <strong>durables</strong> et <em>écologiques</em>. Chaque
             design est soigneusement sélectionné pour capturer la{" "}
-            <strong>sérénité</strong> et l'<em>évasion</em> que seul un contact
+            <strong>sérénité</strong> et l&apos;<em>évasion</em> que seul un contact
             avec la nature peut offrir.
           </p>
         </section>
