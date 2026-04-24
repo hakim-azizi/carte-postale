@@ -4,6 +4,7 @@ import { TextContext } from "../context/Context";
 import "../styles/picture.css";
 function Picture() {
   const { formData } = useContext(TextContext);
+  console.log(formData.Image)
   return (
     <>
       <figure className="picture1">
